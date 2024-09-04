@@ -8,7 +8,7 @@
 
 ## 🛠️ About Me
 
-I am a **proficient Full Stack Developer** with a strong foundation in **Computer Engineering** and **IT Infrastructure**. I have hands-on experience in **Arduino programming, Windows Forms,** and **MS SQL**. My expertise includes full-stack web development using **Node.js, Express.js, Angular,** and **MongoDB**. I am passionate about solving complex problems and delivering **high-quality, scalable solutions**.
+I am a **proficient Full Stack Developer** with a strong foundation in **Software Development**. I have hands-on experience in **Arduino programming, Windows Forms,** and **MS SQL**. My expertise includes full-stack web development using **Node.js, Express.js, Angular,** and **MongoDB**. I am passionate about solving complex problems and delivering **high-quality, scalable solutions**.
 
 ---
 
